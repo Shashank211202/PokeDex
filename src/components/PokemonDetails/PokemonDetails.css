@@ -1,5 +1,6 @@
 .pokedex-redirect{
     text-align: center;
+    
 }
 
 .pokemon-details-wrapper{
@@ -8,6 +9,7 @@
     align-items: center;
     justify-content: center;
     gap: 2rem;
+    margin-bottom: 1.5rem;
 }
 .pokemon-detail-name{
     font-size: xx-large;
